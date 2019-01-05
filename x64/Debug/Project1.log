@@ -1,0 +1,2 @@
+﻿  Main.cpp
+c:\users\kbezz\source\repos\project1\project1\main.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
