@@ -1,6 +1,6 @@
 ﻿  Main.cpp
-c:\users\kbezz\source\repos\project1\project1\main.cpp(107): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-c:\users\kbezz\source\repos\project1\project1\main.cpp(112): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-c:\users\kbezz\source\repos\project1\project1\main.cpp(117): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-c:\users\kbezz\source\repos\project1\project1\main.cpp(122): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  Project1.vcxproj -> C:\Users\kbezz\source\repos\Project1\Debug\Project1.exe
+c:\users\kbezz\source\repos\f1re69\2d-rpg\main.cpp(134): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\kbezz\source\repos\f1re69\2d-rpg\main.cpp(139): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\kbezz\source\repos\f1re69\2d-rpg\main.cpp(144): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\kbezz\source\repos\f1re69\2d-rpg\main.cpp(149): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Project1.vcxproj -> C:\Users\kbezz\source\repos\f1re69\2d-rpg\Debug\Project1.exe
